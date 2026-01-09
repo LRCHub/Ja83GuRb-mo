@@ -1,0 +1,56 @@
+# Beverly – Be The One (English Ver.)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.73] I walk alone, it doesn't matter for how long
+[00:21.73] I'll keep going
+[00:23.24] Wherever these footprints will lead me I believe it's destiny
+[00:30.67] An endless road, but I know that you're strong and bold
+[00:36.06] Somewhere out there waiting for me with a smile that shines like gold
+[00:43.59] There you will
+[00:50.59] 
+[00:46.08] Be the one, be the one, all right
+[00:49.83] I don't wanna give it up, fighting for tomorrow
+[00:53.46] Be the light, be the light, all right
+[00:57.00] Love is strong and it'll always find a way
+[01:00.57] Reaching out your hand, just take it closer to your heart
+[01:04.09] Never lose the fire, and hold onto what you believe
+[01:07.51] Be the one, be the light
+[01:10.17] Message from my heart, I'll send it to you
+[01:31.17] 
+[01:21.40] Be the one, be the one, be the one
+[01:38.40] 
+[01:28.55] There's nothing more important than the life you hold
+[01:34.14] Just remember you've gotta go and keep on
+[01:39.85] Moving forward so you make the most of everyday
+[01:43.47] The strength you've built, the kindness that you've learned to grow
+[01:48.17] All together makes your soul a better, brighter light, I know
+[01:54.94] There you will
+[02:01.94] 
+[01:58.07] Be the one, be the one
+[02:01.77] We will keep on looking for a way, night will always turn to day
+[02:05.78] Be the light, be the light
+[02:08.23] We will take our past and share it with our future
+[02:12.83] Living in the moment, everything's a miracle
+[02:16.98] Shining like the sun and beaming like the moonlight
+[02:20.06] Be the one, be the light
+[02:22.32] Message to my heart, I won't let it go
+[02:41.32] 
+[02:30.57] La la la la la la la, la la la la la la
+[02:39.63] You will be the one
+[02:46.06] You will be the one, yeah
+[02:53.10] Be the one
+[02:58.10] 
+[02:54.87] Be the one, be the one
+[02:57.73] We will make all your sight
+[03:00.66] You'll be the one
+[03:02.36] Be the light, Be the light
+[03:04.81] We'll take darkness into brightness yeah
+[03:09.19] Leading you into the light
+[03:11.73] Be the light
+[03:13.82] Oh you will be alive
+[03:16.07] Be the one, be the one
+[03:18.92] You will be the one
+[03:21.53] We'll make a way
+```
