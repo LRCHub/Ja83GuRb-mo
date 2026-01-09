@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Be The One (English Ver.)",
+  "base_artist": "Beverly",
+  "createdAt": "2026-01-09T06:47:11.898419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beverly / Be The One (English Ver.)",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/01_Beverly___Be_The_One_(English_Ver.)_avex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be The One (English Ver.)",
+      "artist": "Beverly",
+      "has_synced": true,
+      "path": "select/02_Be_The_One_(English_Ver.)_Beverly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be The One (English Ver.)",
+      "artist": "Beverly",
+      "has_synced": false,
+      "path": "select/pl_01_Be_The_One_(English_Ver.)_Beverly.txt"
+    }
+  ]
+}
